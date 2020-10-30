@@ -1,6 +1,7 @@
-# Project Title
+# Diagnostic Analysis of the Zeer Pot System 
 
-One Paragraph of project description goes here
+  This project aims to determine the best conditions for which the Zeer Pot (or Pot-in-Pot) has its greatest efficiency, more specifically the ideal volume/mass of water that maximizes its cooling and evaporation effect.
+  The main tool used was an arduino scale, made with a Load Cell(10kg), HX711 module, MH-SD Card module and an LCD.
 
 ## Getting Started
 
